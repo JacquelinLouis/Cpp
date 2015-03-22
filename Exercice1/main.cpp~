@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+void sablier(int base){
+  int i=base, j=0;
+  while(i>1){
+    j=i;
+    while(i-j>0){
+      
+    }
+    
+    --i;
+  }
+}
+
+int main(int argc, char **argv){
+  
+  return 0;
+}

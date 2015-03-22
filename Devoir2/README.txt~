@@ -1,0 +1,5 @@
+Pour executer ce programme en console :
+-rendez vous dans le dossier contenant toutes les classes du projet.
+-executez la commande : make main
+-une fois le programme compile, executez le avec la commance : ./main
+-suivez alors les instructions qui s'affichent
