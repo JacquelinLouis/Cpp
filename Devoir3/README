@@ -1,0 +1,7 @@
+Pour compiler et executer ce programme sous Linux :
+-utiliser la commande "make main" afin de compiler le devoir (necessite le compilateur clang++)
+-une fois l'executable cree, utiliser la commande "./main Instruction" pour executer le
+ programme suivant les instructions inscrites dans le fichier "Instruction" (suivant le code demande)
+-observer le resultat
+
+Je reste disponible pour toute demande d'information a l'adresse mail : jacquelinlouis@gmail.com
